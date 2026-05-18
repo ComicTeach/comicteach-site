@@ -16,7 +16,7 @@ export const site = {
       "Founder of ComicTeach. NYU. Building tools that make hard ideas feel like Saturday morning cartoons.",
     photo: "/founder.svg" // drop a square JPG/PNG in public/founder.jpg and update this path
   },
-  studio: "https://comicteach-studio.up.railway.app",
+  studio: "https://comicteach-studio-production.up.railway.app",
   links: {
     github: "https://github.com/comicteach/comicteach",
     discord: "https://discord.gg/sUZPnP7P",
