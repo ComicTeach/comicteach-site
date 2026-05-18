@@ -16,12 +16,12 @@ export const site = {
       "Founder of ComicTeach. NYU. Building tools that make hard ideas feel like Saturday morning cartoons.",
     photo: "/founder.svg" // drop a square JPG/PNG in public/founder.jpg and update this path
   },
-  // Swap these in after you create the repo + Discord.
+  studio: "https://comicteach-studio.up.railway.app",
   links: {
     github: "https://github.com/comicteach/comicteach",
-    discord: "https://discord.gg/comicteach",
+    discord: "https://discord.gg/sUZPnP7P",
     twitter: "https://twitter.com/comicteach",
-    email: "hello@comicteach.com"
+    email: "xw2871@nyu.edu"
   },
   // Showcase assets live in public/showcase/.
   showcase: {

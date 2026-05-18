@@ -1,5 +1,5 @@
 import Link from "next/link";
-import { Github, MessageCircle } from "lucide-react";
+import { ArrowRight, Github, MessageCircle } from "lucide-react";
 import { site } from "@/lib/site";
 
 export function CTA() {
@@ -16,10 +16,19 @@ export function CTA() {
         </p>
         <div className="mt-7 flex flex-wrap justify-center gap-3">
           <Link
-            href={site.links.github}
+            href={site.studio}
             target="_blank"
             rel="noreferrer"
             className="btn-primary"
+          >
+            <ArrowRight className="h-4 w-4" />
+            Try the Studio
+          </Link>
+          <Link
+            href={site.links.github}
+            target="_blank"
+            rel="noreferrer"
+            className="btn-secondary"
           >
             <Github className="h-4 w-4" />
             Get the source
