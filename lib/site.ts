@@ -19,9 +19,9 @@ export const site = {
   // Swap these in after you create the repo + Discord.
   links: {
     github: "https://github.com/comicteach/comicteach",
-    discord: "https://discord.gg/sUZPnP7P",
+    discord: "https://discord.gg/comicteach",
     twitter: "https://twitter.com/comicteach",
-    email: "xw2871@nyu.edu"
+    email: "hello@comicteach.com"
   },
   // Showcase assets live in public/showcase/.
   showcase: {
